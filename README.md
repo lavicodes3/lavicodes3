@@ -1,5 +1,5 @@
 # Hi, I'm Lavi 👋
-I'm learning Python and building projects.
+Learning Python and building projects.
 Currently studying: CS50P, Git and GitHub
 <!--
 **lavicodes3/lavicodes3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
